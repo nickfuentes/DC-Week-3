@@ -42,3 +42,21 @@
     background-color: white;
     width: 92%;
 }
+
+
+.display-2 {
+    font-size: 20px;
+    color: blue;
+}
+
+.yellow-box {
+    background-color: #FFA424;
+    color: white;
+    font-size: 15px;
+    display: flex;
+}
+
+.yellow-box p {
+    margin: 3px 0 0 15px;
+    height: 25px;
+}

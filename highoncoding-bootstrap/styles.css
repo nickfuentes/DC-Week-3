@@ -25,3 +25,20 @@
     background-color: white;
 }
 
+.jumbotron {
+    margin: 30px auto auto auto;
+    width: 90%;
+    padding: 20px;
+    border-radius: 0;
+}
+
+.display-1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #48544B;
+}
+
+.white {
+    background-color: white;
+    width: 92%;
+}

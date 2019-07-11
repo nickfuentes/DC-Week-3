@@ -1,0 +1,27 @@
+
+.navbar {
+    background-color: #2BB2FF;
+}
+
+
+.navbar-light .navbar-brand {
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.navbar-light .navbar-nav .nav-link  {
+    color: white;
+    margin: 20px 0 0 30px;;
+    font-size: 20px;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: white;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
